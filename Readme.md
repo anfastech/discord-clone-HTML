@@ -1,1 +1,1 @@
-readme - This is un completed Discord clone app
+Discord UI Clone - HTML, CSS Only
